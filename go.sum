@@ -1,0 +1,4 @@
+github.com/jinhuang712/gotato v0.0.0-20261010164243-dee6cce80e7d h1:RIivibENx3Z28kSuXrvPW2BasHAkpg5n8I+zY0qVQ/M=
+github.com/jinhuang712/gotato v0.0.0-20261010164243-dee6cce80e7d/go.mod h1:QfAtsNlhliFbibO3X07zFJMuLSjx2nNS2Lt7qGqYcLg=
+github.com/severity1/claude-agent-sdk-go v0.10.0 h1:wQGofoTAoxnV81SlD2FgbA3PsA2KL2t2chQgy0hnxAE=
+github.com/severity1/claude-agent-sdk-go v0.10.0/go.mod h1:1581ih7J7T89idAMBfrtVAcQfNGkFWUtWcnQ1O9efYA=
