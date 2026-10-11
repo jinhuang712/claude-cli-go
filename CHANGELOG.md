@@ -2,6 +2,10 @@
 
 All notable changes to this project are listed here. The project follows [Semantic Versioning](https://semver.org/).
 
+## v0.1.1 — 2026-10-11
+
+- **Dependencies:** requires gotato v0.1.0, its first tagged release, in place of a commit pseudo-version. The gotato code is the same.
+
 ## v0.1.0 — 2026-10-11
 
 First release.

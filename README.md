@@ -30,6 +30,7 @@ go get github.com/jinhuang712/claude-cli-go
 
 Requirements:
 - Go 1.22 or newer.
+- gotato v0.1.0 or newer. `go get` adds it.
 - The Claude Code CLI on `PATH`, or at `Config.CLIPath`, already logged in.
 
 ## Quick Start
